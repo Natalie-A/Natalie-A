@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalie Aoya</h1>
-<h3 align="center">An experienced DevSecOps Engineer with 2 years of expertise in application security (AppSec) and secure coding practices from Nairobi,Kenya</h3>
+<h3 align="center">An experienced DevSecOps Engineer with 3 years of expertise in application security (AppSec) and secure coding practices from Nairobi,Kenya</h3>
 
 - 🌱 I’m currently learning **secure coding practices using OWASP**
 
